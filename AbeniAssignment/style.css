@@ -1,0 +1,110 @@
+.bannergeneral{
+    margin: -10px;
+    padding: 0;
+}
+.banner{
+    display:flex;
+    flex-direction: row;
+}
+.bannerlogo{
+    height: auto;
+    width: 200px;
+    margin-left: 45vh;
+}
+.bannerp{
+    margin-left: 15vh;
+    margin-top: 2vh;
+}
+.bannerp p{
+    display: inline;
+    margin-left: 40px;
+   
+}
+.bannerimage{
+    background-image: url('assets/Banner.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 45vh;
+    width: 100% !important;
+    background-size: cover;
+    background-position: center bto;
+    /* filter: blur(3px);
+    -webkit-filter: blur(3px); */
+}
+.bannerimage h1{
+        color:white;
+        size: 10vh;
+        font-size: 10vh;
+        margin: 0;
+        padding: 0;
+        
+}
+.bannerimage h3{
+        color:white;
+                
+}
+.bannerimageone{
+    margin-left: 499px;
+    padding-top: 100px;
+}
+.bannerheadertwo{
+    background-color: rgb(39, 39, 141);
+    width: 400px;
+    height: 100px;
+    display: flex;
+    flex-direction: row-reverse;   
+}
+.bannerheaderthree{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 900px;
+}
+.bannerheaderthree h5{
+    color: white;
+}
+.subheaderone{
+    background-color: #2573f9;
+    width: 150px;
+    height: 70px;
+    border-radius: 100px 100px 100px 100px;
+}
+.bannerheaderthree h5{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.subheadertwo{
+    background-color: #51b0ff;
+    width: 170px;
+    height: 70px;
+    border-radius: 100px 100px 100px 100px;
+}
+.subheaderthree{
+    background-color: #51b0ff;
+    width: 180px;
+    height: 70px;
+    border-radius: 100px 100px 100px 100px;
+}
+.cards{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.bannerheadertwoo{
+    background-color: rgb(39, 39, 141);
+    width: 1000px;
+    height: 100px;
+    display: flex;
+    flex-direction: row-reverse;  
+    margin-right: -290px;
+}
+.bannerheaderthreee{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+    
+}
+.footone p{
+    margin-left: 10px;
+}
